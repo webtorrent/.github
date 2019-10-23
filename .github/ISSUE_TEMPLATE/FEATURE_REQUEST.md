@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- DO NOT POST LINKS OR REFERENCES TO COPYRIGHTED CONTENT IN YOUR ISSUE. -->
+
 **What version of this package are you using?**
 
 **What problem do you want to solve?**
