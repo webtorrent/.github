@@ -1,14 +1,40 @@
-<!-- DO NOT POST LINKS OR REFERENCES TO COPYRIGHTED CONTENT IN YOUR ISSUE. -->
+```
+DO NOT POST LINKS OR REFERENCES TO COPYRIGHTED CONTENT IN YOUR ISSUE TNX.
+Note: (put an "X" inside the item OR check the box after)**
+```
 
-**What is the purpose of this pull request? (put an "X" next to item)**
+# What is the purpose of this pull request?
+- 1.) 
+- 2.)
+- 3.)
 
-[ ] Documentation update
-[ ] Bug fix
-[ ] New feature
-[ ] Other, please explain:
+# Operating system ?:
+ - [ ] iOS
+ - [ ] Linux
+ - [ ] OSX
+ - [ ] Windows
 
 **What changes did you make? (Give an overview)**
 
-**Which issue (if any) does this pull request address?**
+ - [ ] Documentation update
+ - [ ] Bug fix
+ - [ ] New feature
+ - [ ] Other, please explain:
 
-**Is there anything you'd like reviewers to focus on?**
+
+# Which issue (if any) does this pull request address?
+- 1.) 
+- 2.)
+- 3.)
+# Is there anything you'd like reviewers to focus on?
+- 1.) 
+- 2.)
+- 3.)
+
+
+
+
+
+Todo:
+- [ ] Windows UWP
+- [ ] Android
