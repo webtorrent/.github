@@ -1,5 +1,10 @@
-blank_issues_enabled: false
-contact_links:
-  - name: ❓ Ask a question
-    url: https://discord.gg/cnXkm4Z
-    about: Ask questions about this software
+About: Support is provided discord.
+Blank_issues_enabled: "false"
+Contact_links:
+name: WebTorrent Community Discord Support
+url: https://discord.gg/cnXkm4Z
+
+
+I-Cat: To reach I-Cat try the gitter im
+#using gitter.im might be better as the links dont expire. 
+url: https://gitter.im/I-Cat/community
