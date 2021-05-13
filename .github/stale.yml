@@ -1,7 +1,7 @@
 # ProBot Stale (https://probot.github.io/apps/stale/)
 
 # Number of days of inactivity before an issue becomes stale
-daysUntilStale: 180
+daysUntilStale: 90
 
 # Number of days of inactivity before a stale issue is closed
 daysUntilClose: 14
@@ -26,7 +26,4 @@ markComment: >
   Is this still relevant? If so, what is blocking it? Is there anything you can do to help move it forward?
 
 # Comment to post when closing a stale issue. Set to `false` to disable
-closeComment: false
-
-# Limit to only `issues` or `pulls`
-only: issues
+closeComment: true
