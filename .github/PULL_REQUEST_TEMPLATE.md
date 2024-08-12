@@ -1,14 +1,21 @@
 <!-- DO NOT POST LINKS OR REFERENCES TO COPYRIGHTED CONTENT IN YOUR ISSUE. -->
 
-**What is the purpose of this pull request? (put an "X" next to item)**
+**Pull Request purpose**
 
-[ ] Documentation update
-[ ] Bug fix
-[ ] New feature
-[ ] Other, please explain:
+<!-- What is the purpose of this pull request? -->
+<!-- Replace the space with cross, like [x] -->
 
-**What changes did you make? (Give an overview)**
+- [ ] Documentation update
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Other, please explain:
 
-**Which issue (if any) does this pull request address?**
+**Changes**
+<!-- What changes did you make? (Give an overview -->
 
-**Is there anything you'd like reviewers to focus on?**
+**Issues resolves**
+<!-- List issue(s) resolved, like: -->
+<!-- Resolves #99999, where #9999 is an issue number -->
+
+**Note to reviewers**
+<!-- Is there anything you'd like reviewers to focus on? -->
